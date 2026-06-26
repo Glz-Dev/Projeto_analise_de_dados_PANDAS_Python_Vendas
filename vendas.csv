@@ -1,0 +1,11 @@
+ID_Pedido,Data,Cliente,Cidade,Estado,Categoria,Produto,Quantidade,Preco_Unitario,Desconto,Vendas,Lucro,Pagamento
+1001,2025-01-03,Ana,Recife,PE,Eletrônicos,Mouse,2,80,0.1,144,44,Cartão
+1002,2025-01-05,Carlos,Petrolina,PE,Informática,Teclado,1,150,0.0,150,50,PIX
+1003,2025-01-08,João,Juazeiro,BA,Eletrônicos,Fone de Ouvido,3,120,0.05,342,102,Boleto
+1004,2025-01-10,Maria,Recife,PE,Móveis,Cadeira,2,350,0.1,630,180,Cartão
+1005,2025-01-12,Lucas,Fortaleza,CE,Informática,Monitor,1,900,0.15,765,165,PIX
+1006,2025-01-15,Julia,Recife,PE,Eletrônicos,Mouse,4,80,0.0,320,120,Cartão
+1007,2025-01-18,Pedro,Salvador,BA,Móveis,Mesa,1,700,0.05,665,165,Boleto
+1008,2025-01-20,Sofia,Caruaru,PE,Informática,Notebook,1,3200,0.1,2880,480,PIX
+1009,2025-01-22,Rafael,Fortaleza,CE,Eletrônicos,Caixa de Som,2,250,0.2,400,80,Cartão
+1010,2025-01-25,Larissa,Recife,PE,Móveis,Armário,1,1200,0.05,1140,340,Boleto
